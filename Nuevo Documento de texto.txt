@@ -1,0 +1,15 @@
+seguimiento_donaciones/
+│ app.py
+│ donations.db          (se crea solo)
+│
+├─ static/
+│   ├─ qr/
+│   └─ uploads/
+│
+└─ templates/
+    ├─ base.html
+    ├─ admin_list.html
+    ├─ new_donation.html
+    ├─ donation_qr.html
+    ├─ track.html
+    └─ update_donation.html
